@@ -1,0 +1,2 @@
+data merge block ~ ~ ~ {Items:[{Slot:4b, id:"stone_sword", \ 
+components:{item_name:{"text":"Amethyst Sword", color:"#aa22a1"}, lore:[{"text":"A really rare sword",italic:false,color:"gray"}],count:1,item_model:"violetveil:amethyst_sword",attribute_modifiers:[{id:"attack_damage",type:"attack_damage",amount:11,operation:"add_value"}]}}]}

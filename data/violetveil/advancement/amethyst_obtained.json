@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "requirements": {
+            "trigger": "consume_item",
+            "conditions": {
+                "item": {
+                    "count": 69
+                }
+            }
+        }
+    },
+    
+    "rewards": {
+        "function": "violetveil:utils/items/give_amethyst_ingot",
+      "loot": [],
+      "experience": 300
+    }
+}

@@ -1,0 +1,1 @@
+tellraw @a {"text":"Thanks for using my datapack!",color:"dark_purple"}
